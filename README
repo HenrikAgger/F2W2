@@ -1,0 +1,13 @@
+01-tuesday-exercises
+	- Worddokument (der står det samme i et dokument som er skrevet i wordpad++)
+	
+02-wednesday-exercises
+	- Der er tilføjet en fil fra netbeans og jeg har lavet beskrevet opgaveløsninger i wordpad++.
+
+03-thursday-exercises
+	- Jeg har:
+		1) oprettet et domænenavn hos dk.hostmaster (henriksdomainname.dk)
+		2) opsat mit domænenavn med DigitalOcean.
+		3) installeret nginx og er nået til websiden "welcome to nginx!"
+			Jeg vil meget gerne have feedback om hvordan jeg kommer videre fra og med
+			"Open this file: /etc/nginx/nginx.conf"
